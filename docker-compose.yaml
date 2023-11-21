@@ -1,0 +1,38 @@
+version: '3'
+services:
+  db:
+    image: postgres
+    container_name: postgresql
+    restart: always
+    environment:
+      POSTGRES_DB: verTech
+      POSTGRES_USER: "postgres"
+      POSTGRES_PASSWORD: "78963"   
+    ports:
+     - 5432:5432
+    volumes:
+     - .dbdata:/var/lib/postgresql
+
+  backend:
+    container_name: django
+    build: 
+      context: ./backend/vq_builder_backend
+      dockerfile: Dockerfile.back
+    ports:
+      - '8000:8000'
+    depends_on:
+      - db
+    env_file:
+      - .env.dev
+
+  frontend:
+    build: 
+      context: ./frontend
+      dockerfile: Dockerfile.front
+    ports:
+      - '9000:9000'
+    depends_on:
+      - backend
+
+volumes:  
+  postgres_data:

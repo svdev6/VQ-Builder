@@ -1,0 +1,19 @@
+FROM node:lts-alpine
+
+WORKDIR /app
+
+COPY package.json /app/
+COPY vq_builder_frontend/package.json /app/vq_builder_frontend/
+
+# Install any needed packages specified in both package.json files
+RUN npm install
+RUN cd vq_builder_frontend && npm install
+
+# Copy the rest of the application code to the working directory
+COPY . /app/
+
+#Exclude files and directories of dockerignore
+RUN cat /app/.dockerignore | xargs rm -rf
+
+WORKDIR /app/vq_builder_frontend
+CMD npm run dev
