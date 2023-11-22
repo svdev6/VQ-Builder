@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "parabolic-eon-404517",
-  "private_key_id": "f093ecffd10dbb2f6f64c0ac04546b67ee52215c",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCmHy2k37UtLcSn\nTCthnJ0RBhx+hwDLK7da+ALQVS0E9uqeC6ze7YhHCSj1lEoCmQEn0M/dcY5z3Xic\nCUNXHPtGJB5e/JEz7CBEZdJmp//344m63alhZ+5LQbB0bWsTxJ5MhNFbjD3hyTnP\nxho72YUnsun3JJyoZDmoZg6BGjHkjtAIzlzOVjtE1uXB0/gCZwHGrwHVa1H0MjkB\n7l7qO/3eRAAihIRB88OVzErk5e3WuPeW9HCajQlVPGqAAm4lHAzkI5PVV5cTSvsj\nIy9oUEgSynIaAzjfGVEzeUrIqLpxs++lgr8pPeUEOrvQpXwGiSGe4exQjwsLACKx\n+vhEwo6RAgMBAAECggEAARBE3vVGCBdELExcSxMb3VKe8ZTEhZ3OyMtlhzcYY0ZV\nFl8dmPgdLdPqRMzm1BFDNOGicbjq+s/BmIF7AnkvcabvC9gi8i8SPiXcZ5GunZls\naxDFZ20pKnxYmHI6joVCfIZtfwrM5Z+/xJZbL3lodRUxPXFo+wSt6tJWcu9Q6kqY\nyUU6CzZooBjxb9RML7FSr3GxodLkVeJ01TNo3OaBAwU7Ud/utwZjg0y6DlvJr8pn\nS7ZGCKqh9KGO08LBtd+h5TNhXjCukm9Ev2LFTy5CPDnGauaJtIqRuVMqFv4WI2pn\ngGffFszSCHVxDvW0Gkb+MwWdcVET109i5XyfTHCrXQKBgQDnv5yD9807P13vO8ED\nwUQjjjzbqRMzColx6C/vvYUNYgbDOz2oz0rOCKRhehaa/U7dCZ0SeiIy1TnX3K6S\nZhCJIecH6vPVyDknpy5IkMtHINI6+RqE3lHFLuaRqFAPuT6Zr45a6XKoAyYp5G/X\nnTIA+3A5lqqKm28NSOp5hYH+zQKBgQC3gXiiN7op3MFlGJC7nrwItzkbOyALUlJc\n15mvm7zXDGLbuewlwc/U8nGSN+iQx8RzqYR4CvYTgSvVM6xyRFo1tpPa1VxTCwBt\njJ9QUnhLCNfXiUSqmXMI55v6XYGEOvL4oA4FKvPC2+C/2B5rU0Q6Tj20zTN3z17t\nUixWCKPG1QKBgF92Oo7R4KRrMdJ+Fr/pOJw81yzUtKftyzg0oKpsswYUPxzkpj2H\nRhUg0jWlCPLHLVk3wI//515xHuagbPi5Ok6CvJwyWEbTt1dyMkqJ+nJOPss0GYxp\n190VuLx/TJttfy/ndQhV6Xjz8yCGjNuQUSy+ZjgSrCV0aYZbZtqv+CBxAoGAQkS0\nPsinJwT8pjiX09mACBm6urXAXbZN3g9SBdPU/0gOz1C2EfCK0Fj5YJdmGhq6PBak\nqwEyWlrUbHrrtJwwg6M6g9V3MNoRPn6A7e3KWTaJU+HTdVRS8Y1Ki8CGzCzJn7WV\nOpKHUwA6iq1OVu3L/s5QhGFyS7sMieGZ9zvJgT0CgYBWc+JY9oJtUAZveMwKMqWo\nCtolkv5wbg+eSSiqeuMIZjGgRuPiVdybrU4btJtpyj486HAmTZftyhsNfcW1cuA2\nu5BXWwrB0bvQ63ZqyT4l102nZX7rR/RBRUOVad67fmqiOOFUR1HDQxVvtGPAD5L/\n7q8/wp+mpbDqooGX3SnjuQ==\n-----END PRIVATE KEY-----\n",
-  "client_email": "svd-cloud-admin@parabolic-eon-404517.iam.gserviceaccount.com",
-  "client_id": "105983327046317289048",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/svd-cloud-admin%40parabolic-eon-404517.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
